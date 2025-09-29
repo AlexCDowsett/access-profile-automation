@@ -1,0 +1,8 @@
+# Access Profile Automation V1 Requirements
+# Minimal dependencies for the original implementation
+
+# Excel file processing
+openpyxl>=3.0.0
+
+# Note: This is the minimal setup for the original V1 implementation
+# For enhanced functionality, see the backup/ folder for V2 implementation

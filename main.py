@@ -1,20 +1,17 @@
-from access-profile-automation import OpenAccessProfilesXLSX
+from access_profile_automation import OpenAccessProfilesXLSX
 
-
-
-def placeholder(name, key, dict):
+def placeholder(name, filter, dict):
     import time
     time.sleep(0.03)
 
 def main():
-    f = OpenAccessProfilesXLSX()
-    print(f.to_json())
-    total = len(f.access_profile_dict.keys())
-    i = 1
+    f = OpenAccessProfilesXLSX(file='AccessProfilesTEAM.xlsx', debug=True)
+
     for key in f.access_profile_dict.keys():
-        self.print_progress_bar(i, total, prefix='Processing Access Profiles:', suffix=key, show=True)
-        placeholder(key, f.access_profile_dict[key]['filter'], f.access_profile_dict[key])  # Simulate work being done
-        i += 1
+        f.print_progress_bar(prefix='', suffix=key + "         ")
+        placeholder(name=key, filter=f.filter[key], dict=f.access_profile_dict[key])  # Simulate work being done
+
+    #print(f.to_json())
 
 
 
