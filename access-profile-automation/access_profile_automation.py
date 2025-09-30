@@ -1,6 +1,6 @@
 FILENAME = 'B.X_CONDUCTOR_AZ Italy_AccessProfiles_V1.1_18092025 (1).xlsx'
-FILENAME = 'B.X_CONDUCTOR_AZ Bene_AccessProfiles_V1_30092025.xlsx'
 FILENAME = 'AccessProfilesTEAM.xlsx'
+#FILENAME = 'B.X_CONDUCTOR_AZ Bene_AccessProfiles_V1_30092025.xlsx'
 SHEETNAME = None
 
 import openpyxl
@@ -11,7 +11,7 @@ import json
 def main():
     f = OpenAccessProfilesXLSX(file=FILENAME, sheetname=SHEETNAME, debug=True)
     f.to_json(True)
-    f.to_csv()
+    #f.to_csv()
 
 
 class OpenAccessProfilesXLSX():
@@ -73,39 +73,28 @@ class OpenAccessProfilesXLSX():
 
         for row in sheet.iter_rows(min_row=current_row, values_only=True):
             current_row += 1
-
-            offset = 0
-            for cell in row:
-                if (cell != None and cell != ''):
-                    if 'name' in cell.lower():
-                        break
-                offset += 1
+            row_no_none = [cell for cell in row if cell is not None]
             break
 
-
         for row in sheet.iter_rows(min_row=current_row, values_only=True):
-
             current_row += 1
-            row = row[offset:]
-            name = row[0]
-            filter = row[1]
-            row = row[2:]
-            if name == None or name == '':
-                break
+            row_no_none = [cell for cell in row if cell is not None]
+            name = row_no_none[0]
+            filter = row_no_none[1]
+            row_no_none = row_no_none[2:]
 
             cat_index = 0
             for i in range(len(self.headings)):
                 if self.headings[i] in ['Agent Groups', 'Call Barring Profiles', 'Queries', 'Pacing Profiles', 'Flow Services']:
                     cat_index += 1
-                if row[2*i].lower() not in ['none', 'not in use']:
-                        #print(name, filter, self.categories[cat_index], self.headings[i], row[2*i], row[2*i+1])
-                    self.access_profile_dict[name][filter][self.categories[cat_index]][self.headings[i]] = [row[2*i], row[2*i+1]]
+                if row_no_none[2*i].lower() not in ['none', 'not in use']:
+                    self.access_profile_dict[name][filter][self.categories[cat_index]][self.headings[i]] = [row_no_none[2*i], row_no_none[2*i+1]]
     
         if self.debug:
             sample_profile = list(self.access_profile_dict.keys())[0]
             sample_filter = list(self.access_profile_dict[sample_profile].keys())[0]
             sample_data = self.access_profile_dict[sample_profile][sample_filter]
-            print ("Offset to 'Name' column:", offset) 
+            
             print("\nSAMPLE DATA FOUND")
             print("=" * 50)
             print(f"   Sample Profile: '{sample_profile}'")
@@ -123,7 +112,7 @@ class OpenAccessProfilesXLSX():
         """Creates a 3-level nested defaultdict."""
         return defaultdict(lambda: defaultdict(lambda: defaultdict(dict)))
     
-    def print_progress_bar(self, current=None, total=None, bar_length=40, prefix='', suffix='', show=True):
+    def print_progress_bar(self, current=None, total=None, bar_length=40, prefix='Progress', suffix='', show=True):
         if current == None:
             current = self.progress
             self.progress += 1
@@ -142,29 +131,30 @@ class OpenAccessProfilesXLSX():
         if write:
             with open(self.filename + '.json', 'w') as f:
                 json.dump(self.access_profile_dict, f, indent=4)
-            print(f"\n✅ JSON file '{self.filename}.json' written successfully.")
         return json.dumps(self.access_profile_dict, indent=4)
         
-    def to_dict(self, dict=None):
-        if dict is None:
-            dict = self.access_profile_dict
-        return dict
+    def to_dict(self):
+        return self.access_profile_dict
     
     def to_csv(self):
         import csv
         with open(self.filename + '.csv', mode='w', newline='') as file:
             writer = csv.writer(file)
+            csv = [['Name']]
 
-            csv = [['Name', 'Filter', 'Product', 'Type', 'Operator', 'Value']]
-            for name, filter_dict in self.access_profile_dict.items():
-                for filter, category_dict in filter_dict.items():
-                    for category, heading_dict in category_dict.items():
-                        for heading, [operator, value] in heading_dict.items():
-                            csv.append([name, filter, category, heading, operator, value])
+            for name, category in self.access_profile_dict.items():
+                for category, headings in category.items():
+                    csv.append([name])
+                    for [heading, operatorvalue] in headings.items():
+                        if heading not in csv[0]:
+                            csv[0].append(heading)
+                            csv[0].append("?")
+                        print(operatorvalue)
+                        csv[-1].append(operatorvalue[0])
+                        csv[-1].append(operatorvalue[1])
                         
             for csv_row in csv:
                 writer.writerow(csv_row)
-        print(f"\n✅ CSV file '{self.filename}.csv' written successfully.")
 
 
 if __name__ == "__main__":

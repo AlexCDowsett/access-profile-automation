@@ -1,0 +1,4342 @@
+{
+    "TEAM - AZDE_BER_KS-SachB_PS_1": {
+        "AZDE_BER_KS-SachB_PS_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-SachB_PS_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-SachB_PS_2": {
+        "AZDE_BER_KS-SachB_PS_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-SachB_PS_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-SachB_PS_3": {
+        "AZDE_BER_KS-SachB_PS_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-SachB_PS_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-SachB_PS_4": {
+        "AZDE_BER_KS-SachB_PS_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-SachB_PS_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-SachB_PS_5": {
+        "AZDE_BER_KS-SachB_PS_5": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-SachB_PS_5"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-SachB_Unfall_1": {
+        "AZDE_BER_KS-SachB_Unfall_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-SachB_Unfall_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-SachB_Unfall_2": {
+        "AZDE_BER_KS-SachB_Unfall_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-SachB_Unfall_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-SachB_Unfall_3": {
+        "AZDE_BER_KS-SachB_Unfall_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-SachB_Unfall_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-SachB_Unfall_4": {
+        "AZDE_BER_KS-SachB_Unfall_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-SachB_Unfall_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-SachB_Unfall_5": {
+        "AZDE_BER_KS-SachB_Unfall_5": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-SachB_Unfall_5"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-SachB_Unfall_6": {
+        "AZDE_BER_KS-SachB_Unfall_6": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-SachB_Unfall_6"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-SachB_Unfall_7": {
+        "AZDE_BER_KS-SachB_Unfall_7": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-SachB_Unfall_7"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-SachS_SMH-Allg_1": {
+        "AZDE_BER_KS-SachS_SMH-Allg_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-SachS_SMH-Allg_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-SachS_SMH-Allg_2": {
+        "AZDE_BER_KS-SachS_SMH-Allg_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-SachS_SMH-Allg_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_DEU_Uebergr_zuordnen_0": {
+        "AZDE_DEU_Uebergr_zuordnen_0": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_DEU_Uebergr_zuordnen_0"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachB_Kraft_1": {
+        "AZDE_FRA_KS-SachB_Kraft_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachB_Kraft_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachB_Kraft_2": {
+        "AZDE_FRA_KS-SachB_Kraft_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachB_Kraft_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachB_Kraft_3": {
+        "AZDE_FRA_KS-SachB_Kraft_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachB_Kraft_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachB_Kraft_4": {
+        "AZDE_FRA_KS-SachB_Kraft_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachB_Kraft_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachB_Kraft_5": {
+        "AZDE_FRA_KS-SachB_Kraft_5": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachB_Kraft_5"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachB_Kraft-ADAC_1": {
+        "AZDE_FRA_KS-SachB_Kraft-ADAC_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachB_Kraft-ADAC_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachB_Kraft-ADAC_2": {
+        "AZDE_FRA_KS-SachB_Kraft-ADAC_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachB_Kraft-ADAC_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachB_Kraft-ADAC_3": {
+        "AZDE_FRA_KS-SachB_Kraft-ADAC_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachB_Kraft-ADAC_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachB_Kraft-ADAC_4": {
+        "AZDE_FRA_KS-SachB_Kraft-ADAC_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachB_Kraft-ADAC_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_DigiPl_1": {
+        "AZDE_HAL_KS-Sach_DigiPl_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_DigiPl_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_DigiPl_2": {
+        "AZDE_HAL_KS-Sach_DigiPl_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_DigiPl_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_DigiPl_3": {
+        "AZDE_HAL_KS-Sach_DigiPl_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_DigiPl_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_DigiPl_9": {
+        "AZDE_HAL_KS-Sach_DigiPl_9": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_DigiPl_9"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAM_KS-SachB_PS_1": {
+        "AZDE_HAM_KS-SachB_PS_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAM_KS-SachB_PS_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAM_KS-SachB_PS_2": {
+        "AZDE_HAM_KS-SachB_PS_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAM_KS-SachB_PS_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAM_KS-SachB_PS_3": {
+        "AZDE_HAM_KS-SachB_PS_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAM_KS-SachB_PS_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAM_KS-SachB_PS_4": {
+        "AZDE_HAM_KS-SachB_PS_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAM_KS-SachB_PS_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAM_KS-SachB_PS_5": {
+        "AZDE_HAM_KS-SachB_PS_5": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAM_KS-SachB_PS_5"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAM_KS-SachS_SMH-Allg_1": {
+        "AZDE_HAM_KS-SachS_SMH-Allg_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAM_KS-SachS_SMH-Allg_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAM_KS-SachS_SMH-Allg_2": {
+        "AZDE_HAM_KS-SachS_SMH-Allg_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAM_KS-SachS_SMH-Allg_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HBR_KS-Kranken_Leistg_1": {
+        "AZDE_HBR_KS-Kranken_Leistg_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HBR_KS-Kranken_Leistg_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HBR_KS-Kranken_Leistg_2": {
+        "AZDE_HBR_KS-Kranken_Leistg_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HBR_KS-Kranken_Leistg_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HBR_KS-Kranken_Leistg_3": {
+        "AZDE_HBR_KS-Kranken_Leistg_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HBR_KS-Kranken_Leistg_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HBR_KS-Kranken_Leistg_4": {
+        "AZDE_HBR_KS-Kranken_Leistg_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HBR_KS-Kranken_Leistg_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HBR_KS-Kranken_Leistg_6": {
+        "AZDE_HBR_KS-Kranken_Leistg_6": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HBR_KS-Kranken_Leistg_6"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HBR_KS-Kranken_Vertrag_1": {
+        "AZDE_HBR_KS-Kranken_Vertrag_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HBR_KS-Kranken_Vertrag_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HBR_KS-Kranken_Vertrag_2": {
+        "AZDE_HBR_KS-Kranken_Vertrag_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HBR_KS-Kranken_Vertrag_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KAR_KS-Kranken_Leistg_1": {
+        "AZDE_KAR_KS-Kranken_Leistg_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KAR_KS-Kranken_Leistg_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KAR_KS-Kranken_Leistg_2": {
+        "AZDE_KAR_KS-Kranken_Leistg_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KAR_KS-Kranken_Leistg_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KAR_KS-Kranken_Leistg_3": {
+        "AZDE_KAR_KS-Kranken_Leistg_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KAR_KS-Kranken_Leistg_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KAR_KS-Kranken_Vertrag_2": {
+        "AZDE_KAR_KS-Kranken_Vertrag_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KAR_KS-Kranken_Vertrag_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachB_Kraft_1": {
+        "AZDE_KLN_KS-SachB_Kraft_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachB_Kraft_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachB_Kraft_2": {
+        "AZDE_KLN_KS-SachB_Kraft_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachB_Kraft_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachB_Kraft_3": {
+        "AZDE_KLN_KS-SachB_Kraft_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachB_Kraft_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachB_Kraft_4": {
+        "AZDE_KLN_KS-SachB_Kraft_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachB_Kraft_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachB_Kraft_5": {
+        "AZDE_KLN_KS-SachB_Kraft_5": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachB_Kraft_5"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachB_Kraft-ADAC_1": {
+        "AZDE_KLN_KS-SachB_Kraft-ADAC_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachB_Kraft-ADAC_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachB_Kraft-ADAC_2": {
+        "AZDE_KLN_KS-SachB_Kraft-ADAC_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachB_Kraft-ADAC_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachB_Kraft-ADAC_3": {
+        "AZDE_KLN_KS-SachB_Kraft-ADAC_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachB_Kraft-ADAC_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachB_Kraft-ADAC_4": {
+        "AZDE_KLN_KS-SachB_Kraft-ADAC_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachB_Kraft-ADAC_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachB_Kraft-ADAC_5": {
+        "AZDE_KLN_KS-SachB_Kraft-ADAC_5": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachB_Kraft-ADAC_5"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-Kranken_Leistg_1": {
+        "AZDE_LPZ_KS-Kranken_Leistg_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-Kranken_Leistg_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-Kranken_Leistg_2": {
+        "AZDE_LPZ_KS-Kranken_Leistg_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-Kranken_Leistg_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-Kranken_Leistg_3": {
+        "AZDE_LPZ_KS-Kranken_Leistg_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-Kranken_Leistg_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-Kranken_Vertrag_1": {
+        "AZDE_LPZ_KS-Kranken_Vertrag_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-Kranken_Vertrag_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-Kranken_Vertrag_2": {
+        "AZDE_LPZ_KS-Kranken_Vertrag_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-Kranken_Vertrag_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-Kranken_Vertrag_3": {
+        "AZDE_LPZ_KS-Kranken_Vertrag_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-Kranken_Vertrag_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachB_Kraft_1": {
+        "AZDE_LPZ_KS-SachB_Kraft_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachB_Kraft_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachB_Kraft_2": {
+        "AZDE_LPZ_KS-SachB_Kraft_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachB_Kraft_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachB_Kraft_3": {
+        "AZDE_LPZ_KS-SachB_Kraft_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachB_Kraft_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachB_Kraft_4": {
+        "AZDE_LPZ_KS-SachB_Kraft_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachB_Kraft_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachB_Kraft_5": {
+        "AZDE_LPZ_KS-SachB_Kraft_5": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachB_Kraft_5"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachB_Kraft_6": {
+        "AZDE_LPZ_KS-SachB_Kraft_6": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachB_Kraft_6"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachB_Kraft_7": {
+        "AZDE_LPZ_KS-SachB_Kraft_7": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachB_Kraft_7"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachB_PS_1": {
+        "AZDE_LPZ_KS-SachB_PS_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachB_PS_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachB_PS_2": {
+        "AZDE_LPZ_KS-SachB_PS_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachB_PS_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachB_PS_4": {
+        "AZDE_LPZ_KS-SachB_PS_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachB_PS_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachB_PS_5": {
+        "AZDE_LPZ_KS-SachB_PS_5": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachB_PS_5"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachB_PS_6": {
+        "AZDE_LPZ_KS-SachB_PS_6": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachB_PS_6"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachB_PS_7": {
+        "AZDE_LPZ_KS-SachB_PS_7": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachB_PS_7"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachB_PS_8": {
+        "AZDE_LPZ_KS-SachB_PS_8": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachB_PS_8"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachB_PS_9": {
+        "AZDE_LPZ_KS-SachB_PS_9": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachB_PS_9"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachS_SMR_1": {
+        "AZDE_LPZ_KS-SachS_SMR_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachS_SMR_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachS_SMR_2": {
+        "AZDE_LPZ_KS-SachS_SMR_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachS_SMR_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachS_SMR_3": {
+        "AZDE_LPZ_KS-SachS_SMR_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachS_SMR_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MGD_KS-Sach_DigiPl_1": {
+        "AZDE_MGD_KS-Sach_DigiPl_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MGD_KS-Sach_DigiPl_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MGD_KS-Sach_DigiPl_2": {
+        "AZDE_MGD_KS-Sach_DigiPl_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MGD_KS-Sach_DigiPl_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MGD_KS-Sach_DigiPl_3": {
+        "AZDE_MGD_KS-Sach_DigiPl_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MGD_KS-Sach_DigiPl_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_APAS_PersDirekt_1": {
+        "AZDE_MUC_APAS_PersDirekt_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_APAS_PersDirekt_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_APAS_PersDirekt_2": {
+        "AZDE_MUC_APAS_PersDirekt_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_APAS_PersDirekt_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-Kranken_Archiv-Buchh_1": {
+        "AZDE_MUC_KS-Kranken_Archiv-Buchh_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-Kranken_Archiv-Buchh_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachB_Kraft_1": {
+        "AZDE_MUC_KS-SachB_Kraft_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachB_Kraft_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachB_Kraft_2": {
+        "AZDE_MUC_KS-SachB_Kraft_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachB_Kraft_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachB_Kraft_4": {
+        "AZDE_MUC_KS-SachB_Kraft_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachB_Kraft_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachB_Kraft_5": {
+        "AZDE_MUC_KS-SachB_Kraft_5": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachB_Kraft_5"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachB_Kraft_6": {
+        "AZDE_MUC_KS-SachB_Kraft_6": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachB_Kraft_6"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachB_Kraft_7": {
+        "AZDE_MUC_KS-SachB_Kraft_7": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachB_Kraft_7"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachB_Kraft-Pool_1": {
+        "AZDE_MUC_KS-SachB_Kraft-Pool_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachB_Kraft-Pool_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachB_PS_1": {
+        "AZDE_MUC_KS-SachB_PS_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachB_PS_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachB_PS_10": {
+        "AZDE_MUC_KS-SachB_PS_10": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachB_PS_10"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachB_PS_2": {
+        "AZDE_MUC_KS-SachB_PS_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachB_PS_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachB_PS_3": {
+        "AZDE_MUC_KS-SachB_PS_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachB_PS_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachB_PS_7": {
+        "AZDE_MUC_KS-SachB_PS_7": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachB_PS_7"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachB_PS_8": {
+        "AZDE_MUC_KS-SachB_PS_8": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachB_PS_8"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachB_Unfall_1": {
+        "AZDE_MUC_KS-SachB_Unfall_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachB_Unfall_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachB_Unfall_2": {
+        "AZDE_MUC_KS-SachB_Unfall_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachB_Unfall_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachB_Unfall_3": {
+        "AZDE_MUC_KS-SachB_Unfall_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachB_Unfall_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachB_Unfall_4": {
+        "AZDE_MUC_KS-SachB_Unfall_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachB_Unfall_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachS_SMH-Allg_1": {
+        "AZDE_MUC_KS-SachS_SMH-Allg_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachS_SMH-Allg_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachS_SMH-Allg_2": {
+        "AZDE_MUC_KS-SachS_SMH-Allg_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachS_SMH-Allg_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachS_SMR_1": {
+        "AZDE_MUC_KS-SachS_SMR_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachS_SMR_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachS_SMR_2": {
+        "AZDE_MUC_KS-SachS_SMR_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachS_SMR_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Kranken_Leistg_1": {
+        "AZDE_NBG_KS-Kranken_Leistg_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Kranken_Leistg_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Kranken_Leistg_2": {
+        "AZDE_NBG_KS-Kranken_Leistg_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Kranken_Leistg_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Kranken_Leistg_3": {
+        "AZDE_NBG_KS-Kranken_Leistg_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Kranken_Leistg_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Kranken_Leistg_4": {
+        "AZDE_NBG_KS-Kranken_Leistg_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Kranken_Leistg_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Kranken_Vertrag_1": {
+        "AZDE_NBG_KS-Kranken_Vertrag_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Kranken_Vertrag_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Kranken_Vertrag_2": {
+        "AZDE_NBG_KS-Kranken_Vertrag_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Kranken_Vertrag_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Kranken_Vertrag_4": {
+        "AZDE_NBG_KS-Kranken_Vertrag_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Kranken_Vertrag_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_STG_KS-SachB_PS_1": {
+        "AZDE_STG_KS-SachB_PS_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_STG_KS-SachB_PS_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_STG_KS-SachB_PS_3": {
+        "AZDE_STG_KS-SachB_PS_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_STG_KS-SachB_PS_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_STG_KS-SachB_PS_4": {
+        "AZDE_STG_KS-SachB_PS_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_STG_KS-SachB_PS_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_STG_KS-SachB_PS_5": {
+        "AZDE_STG_KS-SachB_PS_5": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_STG_KS-SachB_PS_5"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_STG_KS-SachS_SMH-Allg_1": {
+        "AZDE_STG_KS-SachS_SMH-Allg_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_STG_KS-SachS_SMH-Allg_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_STG_KS-SachS_SMH-Allg_2": {
+        "AZDE_STG_KS-SachS_SMH-Allg_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_STG_KS-SachS_SMH-Allg_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Kranken_Leist-DavExt_1": {
+        "AZDE_NBG_KS-Kranken_Leist-DavExt_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Kranken_Leist-DavExt_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Leben_Service_4": {
+        "AZDE_NBG_KS-Leben_Service_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Leben_Service_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachS_SMK-Glas_2": {
+        "AZDE_FRA_KS-SachS_SMK-Glas_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachS_SMK-Glas_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_1stLvl-Supp_2": {
+        "AZDE_HAL_KS-Allgemein_1stLvl-Supp_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_1stLvl-Supp_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachS_SMS-Allg_1": {
+        "AZDE_MUC_KS-SachS_SMS-Allg_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachS_SMS-Allg_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachB_Kraft-Ext_1": {
+        "AZDE_MUC_KS-SachB_Kraft-Ext_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachB_Kraft-Ext_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-SachB_MKS-PS_1": {
+        "AZDE_NBG_KS-SachB_MKS-PS_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-SachB_MKS-PS_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachS_SMK-ADACStan_2": {
+        "AZDE_KLN_KS-SachS_SMK-ADACStan_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachS_SMK-ADACStan_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Leben_Service_3": {
+        "AZDE_NBG_KS-Leben_Service_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Leben_Service_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-Vertrieb_DigSpez-BSG_1": {
+        "AZDE_FRA_KS-Vertrieb_DigSpez-BSG_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-Vertrieb_DigSpez-BSG_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_VVD-Vertr_8": {
+        "AZDE_HAL_KS-Sach_VVD-Vertr_8": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_VVD-Vertr_8"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_STG_KS-Vertrieb_DigSpez-VAS_1": {
+        "AZDE_STG_KS-Vertrieb_DigSpez-VAS_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_STG_KS-Vertrieb_DigSpez-VAS_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAM_KS-Allgemein_Kundendaten_1": {
+        "AZDE_HAM_KS-Allgemein_Kundendaten_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAM_KS-Allgemein_Kundendaten_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachS_SMK-Standard_3": {
+        "AZDE_KLN_KS-SachS_SMK-Standard_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachS_SMK-Standard_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_KVM-Ausbild_0": {
+        "AZDE_HAL_KS-Allgemein_KVM-Ausbild_0": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_KVM-Ausbild_0"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAM_KS-Vertrieb_DigSpez-BSG_1": {
+        "AZDE_HAM_KS-Vertrieb_DigSpez-BSG_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAM_KS-Vertrieb_DigSpez-BSG_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-SachS_Kraft-CSCExt_2": {
+        "AZDE_NBG_KS-SachS_Kraft-CSCExt_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-SachS_Kraft-CSCExt_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachS_SMK-ADACStan_4": {
+        "AZDE_FRA_KS-SachS_SMK-ADACStan_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachS_SMK-ADACStan_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachS_SMK-ADACStan_2": {
+        "AZDE_FRA_KS-SachS_SMK-ADACStan_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachS_SMK-ADACStan_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-Leben_Service_1": {
+        "AZDE_LPZ_KS-Leben_Service_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-Leben_Service_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-SachS_SMK-Neu_1": {
+        "AZDE_NBG_KS-SachS_SMK-Neu_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-SachS_SMK-Neu_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_Pro3-Inb_4": {
+        "AZDE_HAL_KS-Sach_Pro3-Inb_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_Pro3-Inb_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_Pro3-Inb_3": {
+        "AZDE_HAL_KS-Sach_Pro3-Inb_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_Pro3-Inb_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-SachS_SMS-Bes_2": {
+        "AZDE_BER_KS-SachS_SMS-Bes_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-SachS_SMS-Bes_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-SachS_Kraft-CSCExt_1": {
+        "AZDE_NBG_KS-SachS_Kraft-CSCExt_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-SachS_Kraft-CSCExt_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachS_SMK-ADACStan_1": {
+        "AZDE_FRA_KS-SachS_SMK-ADACStan_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachS_SMK-ADACStan_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_DigiPl-Pool_2": {
+        "AZDE_HAL_KS-Sach_DigiPl-Pool_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_DigiPl-Pool_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_STG_KS-SachS_SMS-Allg_5": {
+        "AZDE_STG_KS-SachS_SMS-Allg_5": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_STG_KS-SachS_SMS-Allg_5"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_VVD-VertrAP_1": {
+        "AZDE_HAL_KS-Sach_VVD-VertrAP_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_VVD-VertrAP_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachS_SMS-Allg_5": {
+        "AZDE_MUC_KS-SachS_SMS-Allg_5": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachS_SMS-Allg_5"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_VVD-Schd_2": {
+        "AZDE_HAL_KS-Sach_VVD-Schd_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_VVD-Schd_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MGD_KS-Allgemein_1stLvl-SuIDP_1": {
+        "AZDE_MGD_KS-Allgemein_1stLvl-SuIDP_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MGD_KS-Allgemein_1stLvl-SuIDP_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAM_KS-SachS_SMSS-Video_4": {
+        "AZDE_HAM_KS-SachS_SMSS-Video_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAM_KS-SachS_SMSS-Video_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Vertrieb_DigSpez-Web_1": {
+        "AZDE_NBG_KS-Vertrieb_DigSpez-Web_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Vertrieb_DigSpez-Web_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_VVD-Vertr_2": {
+        "AZDE_HAL_KS-Sach_VVD-Vertr_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_VVD-Vertr_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachB_Kraft-Aubi_1": {
+        "AZDE_KLN_KS-SachB_Kraft-Aubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachB_Kraft-Aubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_Multi-MD1_1": {
+        "AZDE_HAL_KS-Sach_Multi-MD1_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_Multi-MD1_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-Leben_Service_4": {
+        "AZDE_LPZ_KS-Leben_Service_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-Leben_Service_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-Allgemein_Kundendaten_1": {
+        "AZDE_BER_KS-Allgemein_Kundendaten_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-Allgemein_Kundendaten_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachS_SMK-Standard_2": {
+        "AZDE_FRA_KS-SachS_SMK-Standard_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachS_SMK-Standard_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_Pro3-InbOut_1": {
+        "AZDE_HAL_KS-Allgemein_Pro3-InbOut_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_Pro3-InbOut_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachS_SMK-Standard_1": {
+        "AZDE_FRA_KS-SachS_SMK-Standard_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachS_SMK-Standard_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Leben_Service_1": {
+        "AZDE_NBG_KS-Leben_Service_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Leben_Service_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_STG_KS-Vertrieb_DigSpez-BSG_1": {
+        "AZDE_STG_KS-Vertrieb_DigSpez-BSG_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_STG_KS-Vertrieb_DigSpez-BSG_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-SachS_SMK-Standard_4": {
+        "AZDE_NBG_KS-SachS_SMK-Standard_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-SachS_SMK-Standard_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-Allgemein_Kundendaten_1": {
+        "AZDE_MUC_KS-Allgemein_Kundendaten_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-Allgemein_Kundendaten_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachS_SMK-Standard_2": {
+        "AZDE_LPZ_KS-SachS_SMK-Standard_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachS_SMK-Standard_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachS_SMK-Standard_9": {
+        "AZDE_KLN_KS-SachS_SMK-Standard_9": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachS_SMK-Standard_9"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-SachS_Sach-CSCAExt_1": {
+        "AZDE_NBG_KS-SachS_Sach-CSCAExt_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-SachS_Sach-CSCAExt_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachS_SMK-AABesond_1": {
+        "AZDE_FRA_KS-SachS_SMK-AABesond_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachS_SMK-AABesond_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_VU-INBMAZ_3": {
+        "AZDE_HAL_KS-Allgemein_VU-INBMAZ_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_VU-INBMAZ_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_STG_KS-Allgemein_ZahlEingBear_1": {
+        "AZDE_STG_KS-Allgemein_ZahlEingBear_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_STG_KS-Allgemein_ZahlEingBear_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_Pro3-Outb_1": {
+        "AZDE_HAL_KS-Sach_Pro3-Outb_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_Pro3-Outb_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KAR_KS-Leben_Service_3": {
+        "AZDE_KAR_KS-Leben_Service_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KAR_KS-Leben_Service_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Kranken_Leistg-Aubi_1": {
+        "AZDE_NBG_KS-Kranken_Leistg-Aubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Kranken_Leistg-Aubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_VVD-Schd_4": {
+        "AZDE_HAL_KS-Sach_VVD-Schd_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_VVD-Schd_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachS_SMK-Standard_3": {
+        "AZDE_FRA_KS-SachS_SMK-Standard_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachS_SMK-Standard_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-Leben_Service_5": {
+        "AZDE_BER_KS-Leben_Service_5": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-Leben_Service_5"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-Allgemein_Kapamgmt_1": {
+        "AZDE_LPZ_KS-Allgemein_Kapamgmt_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-Allgemein_Kapamgmt_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_GA-VertroVVD_2": {
+        "AZDE_HAL_KS-Sach_GA-VertroVVD_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_GA-VertroVVD_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MGD_KS-Allgemein_Pro3-InbOut_1": {
+        "AZDE_MGD_KS-Allgemein_Pro3-InbOut_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MGD_KS-Allgemein_Pro3-InbOut_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Vertrieb_DVE_2": {
+        "AZDE_NBG_KS-Vertrieb_DVE_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Vertrieb_DVE_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAM_KS-SachS_SMH-AllgAubi_1": {
+        "AZDE_HAM_KS-SachS_SMH-AllgAubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAM_KS-SachS_SMH-AllgAubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachS_SMK-Standard_6": {
+        "AZDE_LPZ_KS-SachS_SMK-Standard_6": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachS_SMK-Standard_6"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Leben_Antr-Strecke_1": {
+        "AZDE_NBG_KS-Leben_Antr-Strecke_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Leben_Antr-Strecke_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_VVD-Schd_1": {
+        "AZDE_HAL_KS-Sach_VVD-Schd_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_VVD-Schd_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MGD_KS-Allgemein_Pro3-InbOut_4": {
+        "AZDE_MGD_KS-Allgemein_Pro3-InbOut_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MGD_KS-Allgemein_Pro3-InbOut_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MGD_KS-Allgemein_TeLInb-Pool_1": {
+        "AZDE_MGD_KS-Allgemein_TeLInb-Pool_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MGD_KS-Allgemein_TeLInb-Pool_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAM_KS-SachS_SMSS-Video_2": {
+        "AZDE_HAM_KS-SachS_SMSS-Video_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAM_KS-SachS_SMSS-Video_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Vertrieb_Makler-Supp_1": {
+        "AZDE_HAL_KS-Vertrieb_Makler-Supp_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Vertrieb_Makler-Supp_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachS_SMK-Standard_7": {
+        "AZDE_FRA_KS-SachS_SMK-Standard_7": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachS_SMK-Standard_7"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachS_SMS-Allg_4": {
+        "AZDE_LPZ_KS-SachS_SMS-Allg_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachS_SMS-Allg_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KAR_KS-Leben_Service_6": {
+        "AZDE_KAR_KS-Leben_Service_6": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KAR_KS-Leben_Service_6"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-SachS_SMK-Standard_2": {
+        "AZDE_NBG_KS-SachS_SMK-Standard_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-SachS_SMK-Standard_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_STG_KS-SachS_SMS-Allg_1": {
+        "AZDE_STG_KS-SachS_SMS-Allg_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_STG_KS-SachS_SMS-Allg_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_GAVertr-Pool_1": {
+        "AZDE_HAL_KS-Sach_GAVertr-Pool_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_GAVertr-Pool_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-Vertrieb_DigSpez-KVS_1": {
+        "AZDE_KLN_KS-Vertrieb_DigSpez-KVS_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-Vertrieb_DigSpez-KVS_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachS_SMK-ADACNeu_1": {
+        "AZDE_KLN_KS-SachS_SMK-ADACNeu_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachS_SMK-ADACNeu_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachS_SMS-AllgAubi_1": {
+        "AZDE_MUC_KS-SachS_SMS-AllgAubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachS_SMS-AllgAubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-Leben_Aubi_1": {
+        "AZDE_BER_KS-Leben_Aubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-Leben_Aubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HBR_KS-Kranken_Leistg-Aubi_1": {
+        "AZDE_HBR_KS-Kranken_Leistg-Aubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HBR_KS-Kranken_Leistg-Aubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_GA-SchoVVD_1": {
+        "AZDE_HAL_KS-Sach_GA-SchoVVD_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_GA-SchoVVD_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAN_KSFB_Aubi_1": {
+        "AZDE_HAN_KSFB_Aubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAN_KSFB_Aubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-Leben_Service_3": {
+        "AZDE_LPZ_KS-Leben_Service_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-Leben_Service_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachS_SMK-ADACStan_1": {
+        "AZDE_KLN_KS-SachS_SMK-ADACStan_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachS_SMK-ADACStan_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Leben_Aubi_1": {
+        "AZDE_NBG_KS-Leben_Aubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Leben_Aubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-Leben_Service_5": {
+        "AZDE_LPZ_KS-Leben_Service_5": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-Leben_Service_5"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachS_SMK-Glas_3": {
+        "AZDE_FRA_KS-SachS_SMK-Glas_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachS_SMK-Glas_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-Vertrieb_DVE_2": {
+        "AZDE_FRA_KS-Vertrieb_DVE_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-Vertrieb_DVE_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachS_SMK-ADACNeu_1": {
+        "AZDE_FRA_KS-SachS_SMK-ADACNeu_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachS_SMK-ADACNeu_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-Leben_Service_2": {
+        "AZDE_BER_KS-Leben_Service_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-Leben_Service_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-Sach_Kr-SchdAubi_2": {
+        "AZDE_FRA_KS-Sach_Kr-SchdAubi_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-Sach_Kr-SchdAubi_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachB_Kraft-Aubi_1": {
+        "AZDE_LPZ_KS-SachB_Kraft-Aubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachB_Kraft-Aubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachS_SMS-Allg_4": {
+        "AZDE_MUC_KS-SachS_SMS-Allg_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachS_SMS-Allg_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_VVD-Schd_3": {
+        "AZDE_HAL_KS-Sach_VVD-Schd_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_VVD-Schd_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Leben_Service_9": {
+        "AZDE_NBG_KS-Leben_Service_9": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Leben_Service_9"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Kranken_Leistg-MKS_1": {
+        "AZDE_NBG_KS-Kranken_Leistg-MKS_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Kranken_Leistg-MKS_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachS_SMS-Allg_3": {
+        "AZDE_MUC_KS-SachS_SMS-Allg_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachS_SMS-Allg_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MGD_KS-Allgemein_1stLvl-Supp_1": {
+        "AZDE_MGD_KS-Allgemein_1stLvl-Supp_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MGD_KS-Allgemein_1stLvl-Supp_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MGD_KS-Allgemein_1stLvl-SuID_1": {
+        "AZDE_MGD_KS-Allgemein_1stLvl-SuID_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MGD_KS-Allgemein_1stLvl-SuID_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachS_SMK-Neu_2": {
+        "AZDE_FRA_KS-SachS_SMK-Neu_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachS_SMK-Neu_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-SachS_Sach-CSCExt_1": {
+        "AZDE_NBG_KS-SachS_Sach-CSCExt_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-SachS_Sach-CSCExt_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachS_SMK-Glas_1": {
+        "AZDE_FRA_KS-SachS_SMK-Glas_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachS_SMK-Glas_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_STG_KS-SachS_SMS-Allg_4": {
+        "AZDE_STG_KS-SachS_SMS-Allg_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_STG_KS-SachS_SMS-Allg_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_Pro3-Inb_5": {
+        "AZDE_HAL_KS-Sach_Pro3-Inb_5": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_Pro3-Inb_5"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_VVD-Vertr_3": {
+        "AZDE_HAL_KS-Sach_VVD-Vertr_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_VVD-Vertr_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-SachS_SMK-Neu_1": {
+        "AZDE_BER_KS-SachS_SMK-Neu_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-SachS_SMK-Neu_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_VVD-Vertr_1": {
+        "AZDE_HAL_KS-Sach_VVD-Vertr_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_VVD-Vertr_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachS_SMS-AllgAubi_1": {
+        "AZDE_LPZ_KS-SachS_SMS-AllgAubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachS_SMS-AllgAubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-Schaden_KAPA_0": {
+        "AZDE_MUC_KS-Schaden_KAPA_0": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-Schaden_KAPA_0"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachS_SMK-Standard_5": {
+        "AZDE_LPZ_KS-SachS_SMK-Standard_5": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachS_SMK-Standard_5"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-Vertrieb_DigSpez-KME_1": {
+        "AZDE_FRA_KS-Vertrieb_DigSpez-KME_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-Vertrieb_DigSpez-KME_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KAR_KS-Leben_Service_4": {
+        "AZDE_KAR_KS-Leben_Service_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KAR_KS-Leben_Service_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_GA-VertroVVD_3": {
+        "AZDE_HAL_KS-Sach_GA-VertroVVD_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_GA-VertroVVD_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAM_KS-Vertrieb_DVE_2": {
+        "AZDE_HAM_KS-Vertrieb_DVE_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAM_KS-Vertrieb_DVE_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachS_SMK-Aubi_1": {
+        "AZDE_LPZ_KS-SachS_SMK-Aubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachS_SMK-Aubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachB_Kraft-Aubi_1": {
+        "AZDE_FRA_KS-SachB_Kraft-Aubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachB_Kraft-Aubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-Leben_Service_4": {
+        "AZDE_BER_KS-Leben_Service_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-Leben_Service_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_Pro3-InbOut_4": {
+        "AZDE_HAL_KS-Allgemein_Pro3-InbOut_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_Pro3-InbOut_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-Leben_Service_6": {
+        "AZDE_BER_KS-Leben_Service_6": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-Leben_Service_6"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-SachS_SMS-Bes_1": {
+        "AZDE_BER_KS-SachS_SMS-Bes_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-SachS_SMS-Bes_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachS_SMK-Neu_1": {
+        "AZDE_KLN_KS-SachS_SMK-Neu_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachS_SMK-Neu_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachS_SMK-Standard_8": {
+        "AZDE_LPZ_KS-SachS_SMK-Standard_8": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachS_SMK-Standard_8"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Leben_Labor_1": {
+        "AZDE_NBG_KS-Leben_Labor_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Leben_Labor_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_VU-INBMAZ_2": {
+        "AZDE_HAL_KS-Allgemein_VU-INBMAZ_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_VU-INBMAZ_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KAR_KS-Leben_Service_7": {
+        "AZDE_KAR_KS-Leben_Service_7": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KAR_KS-Leben_Service_7"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_Pro3-InbOut_6": {
+        "AZDE_HAL_KS-Allgemein_Pro3-InbOut_6": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_Pro3-InbOut_6"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachS_SMK-AAAVS_2": {
+        "AZDE_FRA_KS-SachS_SMK-AAAVS_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachS_SMK-AAAVS_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-Vertrieb_DVE_1": {
+        "AZDE_LPZ_KS-Vertrieb_DVE_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-Vertrieb_DVE_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-SachS_GA-Ext_1": {
+        "AZDE_HAL_KS-SachS_GA-Ext_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-SachS_GA-Ext_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-Leben_Service-Spez_1": {
+        "AZDE_LPZ_KS-Leben_Service-Spez_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-Leben_Service-Spez_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachS_SMS-Allg_1": {
+        "AZDE_LPZ_KS-SachS_SMS-Allg_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachS_SMS-Allg_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Leben_Service_6": {
+        "AZDE_NBG_KS-Leben_Service_6": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Leben_Service_6"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-Vertrieb_DigSpez-KVS_1": {
+        "AZDE_MUC_KS-Vertrieb_DigSpez-KVS_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-Vertrieb_DigSpez-KVS_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAM_KS-SachS_SMSS-Video_3": {
+        "AZDE_HAM_KS-SachS_SMSS-Video_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAM_KS-SachS_SMSS-Video_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-SachB_MKS-Unfall_1": {
+        "AZDE_NBG_KS-SachB_MKS-Unfall_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-SachB_MKS-Unfall_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-SachS_SMK-Standard_3": {
+        "AZDE_NBG_KS-SachS_SMK-Standard_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-SachS_SMK-Standard_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KAR_KS-Leben_Service_5": {
+        "AZDE_KAR_KS-Leben_Service_5": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KAR_KS-Leben_Service_5"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachS_SMK-Standard_5": {
+        "AZDE_KLN_KS-SachS_SMK-Standard_5": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachS_SMK-Standard_5"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-Vertrieb_DigSpez-Bank_1": {
+        "AZDE_KLN_KS-Vertrieb_DigSpez-Bank_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-Vertrieb_DigSpez-Bank_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachS_SMK-Standard_3": {
+        "AZDE_MUC_KS-SachS_SMK-Standard_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachS_SMK-Standard_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_VVD-Vertr_4": {
+        "AZDE_HAL_KS-Sach_VVD-Vertr_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_VVD-Vertr_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-SachB_PS-Pool_1": {
+        "AZDE_BER_KS-SachB_PS-Pool_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-SachB_PS-Pool_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachS_SMS-Allg_6": {
+        "AZDE_LPZ_KS-SachS_SMS-Allg_6": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachS_SMS-Allg_6"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_APASService_1": {
+        "AZDE_HAL_KS-Allgemein_APASService_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_APASService_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_Pro3-InbOut_5": {
+        "AZDE_HAL_KS-Allgemein_Pro3-InbOut_5": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_Pro3-InbOut_5"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KAR_KS-Leben_Service_2": {
+        "AZDE_KAR_KS-Leben_Service_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KAR_KS-Leben_Service_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachB_Kraft-Moped_1": {
+        "AZDE_KLN_KS-SachB_Kraft-Moped_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachB_Kraft-Moped_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachB_PS-Pool_1": {
+        "AZDE_MUC_KS-SachB_PS-Pool_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachB_PS-Pool_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachS_SMK-Standard_2": {
+        "AZDE_KLN_KS-SachS_SMK-Standard_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachS_SMK-Standard_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_VVD-Vertr_7": {
+        "AZDE_HAL_KS-Sach_VVD-Vertr_7": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_VVD-Vertr_7"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_Pro3-InbOut_8": {
+        "AZDE_HAL_KS-Allgemein_Pro3-InbOut_8": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_Pro3-InbOut_8"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_Pro3-InbOut_2": {
+        "AZDE_HAL_KS-Allgemein_Pro3-InbOut_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_Pro3-InbOut_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MGD_KS-Allgemein_Pro3-InbOut_3": {
+        "AZDE_MGD_KS-Allgemein_Pro3-InbOut_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MGD_KS-Allgemein_Pro3-InbOut_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-Leben_Service_1": {
+        "AZDE_BER_KS-Leben_Service_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-Leben_Service_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_Pro3-Outb_2": {
+        "AZDE_HAL_KS-Sach_Pro3-Outb_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_Pro3-Outb_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachS_SMK-Neu_1": {
+        "AZDE_FRA_KS-SachS_SMK-Neu_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachS_SMK-Neu_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachS_SMK-Standard_8": {
+        "AZDE_KLN_KS-SachS_SMK-Standard_8": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachS_SMK-Standard_8"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-Vertrieb_DigSpez-VAS_1": {
+        "AZDE_MUC_KS-Vertrieb_DigSpez-VAS_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-Vertrieb_DigSpez-VAS_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MGD_KS-Allgemein_Pro3-InbOut_2": {
+        "AZDE_MGD_KS-Allgemein_Pro3-InbOut_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MGD_KS-Allgemein_Pro3-InbOut_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_1stLVL-NGSD_1": {
+        "AZDE_HAL_KS-Allgemein_1stLVL-NGSD_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_1stLVL-NGSD_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Leben_Service_5": {
+        "AZDE_NBG_KS-Leben_Service_5": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Leben_Service_5"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-Vertrieb_DigSpez-VAS_1": {
+        "AZDE_BER_KS-Vertrieb_DigSpez-VAS_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-Vertrieb_DigSpez-VAS_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-Vertrieb_DigSpez-BSG_1": {
+        "AZDE_LPZ_KS-Vertrieb_DigSpez-BSG_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-Vertrieb_DigSpez-BSG_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachS_SMK-ADACNeu_4": {
+        "AZDE_KLN_KS-SachS_SMK-ADACNeu_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachS_SMK-ADACNeu_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachS_SMK-ADACNeu_2": {
+        "AZDE_FRA_KS-SachS_SMK-ADACNeu_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachS_SMK-ADACNeu_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachS_SMK-Standard_10": {
+        "AZDE_KLN_KS-SachS_SMK-Standard_10": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachS_SMK-Standard_10"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_STG_KS-Allgemein_Kundendaten_1": {
+        "AZDE_STG_KS-Allgemein_Kundendaten_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_STG_KS-Allgemein_Kundendaten_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_DEU_KS-Allgemein_2ndLVLSup_1": {
+        "AZDE_DEU_KS-Allgemein_2ndLVLSup_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_DEU_KS-Allgemein_2ndLVLSup_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachS_SMS-Allg_2": {
+        "AZDE_MUC_KS-SachS_SMS-Allg_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachS_SMS-Allg_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MGD_KS-Sach_DigiPl-Pool_1": {
+        "AZDE_MGD_KS-Sach_DigiPl-Pool_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MGD_KS-Sach_DigiPl-Pool_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_STG_KS-SachS_SMS-Allg_2": {
+        "AZDE_STG_KS-SachS_SMS-Allg_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_STG_KS-SachS_SMS-Allg_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachS_SMK-Standard_1": {
+        "AZDE_LPZ_KS-SachS_SMK-Standard_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachS_SMK-Standard_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachS_SMS-Allg_5": {
+        "AZDE_LPZ_KS-SachS_SMS-Allg_5": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachS_SMS-Allg_5"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_VU-EVK2ndLVL_1": {
+        "AZDE_HAL_KS-Allgemein_VU-EVK2ndLVL_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_VU-EVK2ndLVL_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachS_SMK-Standard_5": {
+        "AZDE_FRA_KS-SachS_SMK-Standard_5": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachS_SMK-Standard_5"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachS_SMK-Neu_1": {
+        "AZDE_MUC_KS-SachS_SMK-Neu_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachS_SMK-Neu_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_VU-INBMAZ_1": {
+        "AZDE_HAL_KS-Allgemein_VU-INBMAZ_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_VU-INBMAZ_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachS_SMK-Standard_4": {
+        "AZDE_FRA_KS-SachS_SMK-Standard_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachS_SMK-Standard_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-Vertrieb_DigSpez-KVS_1": {
+        "AZDE_BER_KS-Vertrieb_DigSpez-KVS_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-Vertrieb_DigSpez-KVS_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-Leben_Service_3": {
+        "AZDE_BER_KS-Leben_Service_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-Leben_Service_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAM_KS-Vertrieb_DVE_1": {
+        "AZDE_HAM_KS-Vertrieb_DVE_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAM_KS-Vertrieb_DVE_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachS_SMK-Neu_2": {
+        "AZDE_LPZ_KS-SachS_SMK-Neu_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachS_SMK-Neu_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Leben_Service_2": {
+        "AZDE_NBG_KS-Leben_Service_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Leben_Service_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachS_SMS-Allg_3": {
+        "AZDE_LPZ_KS-SachS_SMS-Allg_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachS_SMS-Allg_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachS_SMK-Neu_2": {
+        "AZDE_KLN_KS-SachS_SMK-Neu_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachS_SMK-Neu_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_STG_KS-Vertrieb_DigSpez-KVS_1": {
+        "AZDE_STG_KS-Vertrieb_DigSpez-KVS_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_STG_KS-Vertrieb_DigSpez-KVS_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-Vertrieb_DigSpez-BSG_1": {
+        "AZDE_KLN_KS-Vertrieb_DigSpez-BSG_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-Vertrieb_DigSpez-BSG_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachS_SMK-Standard_6": {
+        "AZDE_FRA_KS-SachS_SMK-Standard_6": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachS_SMK-Standard_6"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Vertrieb_DVE_1": {
+        "AZDE_NBG_KS-Vertrieb_DVE_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Vertrieb_DVE_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-Allgemein_ZahlEingBear_1": {
+        "AZDE_KLN_KS-Allgemein_ZahlEingBear_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-Allgemein_ZahlEingBear_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_Pro3-Inb_1": {
+        "AZDE_HAL_KS-Sach_Pro3-Inb_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_Pro3-Inb_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-Vertrieb_DigSpez-VAS_1": {
+        "AZDE_KLN_KS-Vertrieb_DigSpez-VAS_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-Vertrieb_DigSpez-VAS_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachS_SMK-ADACStan_4": {
+        "AZDE_KLN_KS-SachS_SMK-ADACStan_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachS_SMK-ADACStan_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachS_SMK-AAAVS_1": {
+        "AZDE_FRA_KS-SachS_SMK-AAAVS_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachS_SMK-AAAVS_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachS_SMS-Allg_7": {
+        "AZDE_LPZ_KS-SachS_SMS-Allg_7": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachS_SMS-Allg_7"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MGD_KS-Allgemein_MAZ_1": {
+        "AZDE_MGD_KS-Allgemein_MAZ_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MGD_KS-Allgemein_MAZ_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_KVM-Stab_5": {
+        "AZDE_HAL_KS-Allgemein_KVM-Stab_5": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_KVM-Stab_5"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_InbOut-Pool_1": {
+        "AZDE_HAL_KS-Allgemein_InbOut-Pool_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_InbOut-Pool_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-SachB_Unfall-Aubi_1": {
+        "AZDE_BER_KS-SachB_Unfall-Aubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-SachB_Unfall-Aubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_ABZ-ADACZH_1": {
+        "AZDE_HAL_KS-Sach_ABZ-ADACZH_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_ABZ-ADACZH_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_STG_KS-SachS_SMS-Allg_3": {
+        "AZDE_STG_KS-SachS_SMS-Allg_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_STG_KS-SachS_SMS-Allg_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-Vertrieb_DigSpez-Web_1": {
+        "AZDE_LPZ_KS-Vertrieb_DigSpez-Web_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-Vertrieb_DigSpez-Web_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-Vertrieb_DVE_1": {
+        "AZDE_FRA_KS-Vertrieb_DVE_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-Vertrieb_DVE_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachS_SMK-Standard_7": {
+        "AZDE_KLN_KS-SachS_SMK-Standard_7": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachS_SMK-Standard_7"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_KVM-Stab_4": {
+        "AZDE_HAL_KS-Allgemein_KVM-Stab_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_KVM-Stab_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_VVD-Vertr_6": {
+        "AZDE_HAL_KS-Sach_VVD-Vertr_6": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_VVD-Vertr_6"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-SachS_SMS-Bes_3": {
+        "AZDE_BER_KS-SachS_SMS-Bes_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-SachS_SMS-Bes_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Leben_Service_7": {
+        "AZDE_NBG_KS-Leben_Service_7": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Leben_Service_7"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_1stLvl-SuID_1": {
+        "AZDE_HAL_KS-Allgemein_1stLvl-SuID_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_1stLvl-SuID_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Vertrieb_DigSpez-BSG_1": {
+        "AZDE_NBG_KS-Vertrieb_DigSpez-BSG_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Vertrieb_DigSpez-BSG_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_VU-Assistenz_0": {
+        "AZDE_HAL_KS-Sach_VU-Assistenz_0": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_VU-Assistenz_0"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Vertrieb_DigSpez-VAS_1": {
+        "AZDE_NBG_KS-Vertrieb_DigSpez-VAS_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Vertrieb_DigSpez-VAS_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachS_SMK-Standard_4": {
+        "AZDE_LPZ_KS-SachS_SMK-Standard_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachS_SMK-Standard_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-SachB_PS_6": {
+        "AZDE_BER_KS-SachB_PS_6": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-SachB_PS_6"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachB_Kraft-ADAC_5": {
+        "AZDE_FRA_KS-SachB_Kraft-ADAC_5": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachB_Kraft-ADAC_5"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_GA-VertroVVD_1": {
+        "AZDE_HAL_KS-Sach_GA-VertroVVD_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_GA-VertroVVD_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_DEU_KS-SachS_SMR-AL_1": {
+        "AZDE_DEU_KS-SachS_SMR-AL_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_DEU_KS-SachS_SMR-AL_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-Vertrieb_DVE_2": {
+        "AZDE_LPZ_KS-Vertrieb_DVE_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-Vertrieb_DVE_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-Vertrieb_DigSpez-FB_1": {
+        "AZDE_BER_KS-Vertrieb_DigSpez-FB_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-Vertrieb_DigSpez-FB_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachB_PS_10": {
+        "AZDE_LPZ_KS-SachB_PS_10": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachB_PS_10"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachS_SMK-ADACStan_3": {
+        "AZDE_FRA_KS-SachS_SMK-ADACStan_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachS_SMK-ADACStan_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachS_SMK-Standard_2": {
+        "AZDE_MUC_KS-SachS_SMK-Standard_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachS_SMK-Standard_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_Pro3-InbOut_7": {
+        "AZDE_HAL_KS-Allgemein_Pro3-InbOut_7": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_Pro3-InbOut_7"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachB_PS-Aubi_1": {
+        "AZDE_LPZ_KS-SachB_PS-Aubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachB_PS-Aubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MGD_KS-Allgemein_MAZ_2": {
+        "AZDE_MGD_KS-Allgemein_MAZ_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MGD_KS-Allgemein_MAZ_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachS_SMK-Labor_1": {
+        "AZDE_MUC_KS-SachS_SMK-Labor_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachS_SMK-Labor_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachS_SMS-Allg_2": {
+        "AZDE_LPZ_KS-SachS_SMS-Allg_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachS_SMS-Allg_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachS_SMK-ADACNeu_2": {
+        "AZDE_KLN_KS-SachS_SMK-ADACNeu_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachS_SMK-ADACNeu_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KSFB-LebenP_AL_1": {
+        "AZDE_BER_KSFB-LebenP_AL_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KSFB-LebenP_AL_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-Allgemein_2ndLVLSup_1": {
+        "AZDE_BER_KS-Allgemein_2ndLVLSup_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-Allgemein_2ndLVLSup_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KAR_KSFB-LebenP_AL_1": {
+        "AZDE_KAR_KSFB-LebenP_AL_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KAR_KSFB-LebenP_AL_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Leben_Service-Spez_1": {
+        "AZDE_NBG_KS-Leben_Service-Spez_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Leben_Service-Spez_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAN_KS-LebenP_Aubi_2": {
+        "AZDE_HAN_KS-LebenP_Aubi_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAN_KS-LebenP_Aubi_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachB_Kraft-ADAC_6": {
+        "AZDE_FRA_KS-SachB_Kraft-ADAC_6": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachB_Kraft-ADAC_6"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KAR_KS-Leben_Service_1": {
+        "AZDE_KAR_KS-Leben_Service_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KAR_KS-Leben_Service_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachS_SMS-Allg_8": {
+        "AZDE_LPZ_KS-SachS_SMS-Allg_8": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachS_SMS-Allg_8"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAM_KS-SachS_SMSS-Aubi_1": {
+        "AZDE_HAM_KS-SachS_SMSS-Aubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAM_KS-SachS_SMSS-Aubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_KVM-BR_0": {
+        "AZDE_HAL_KS-Allgemein_KVM-BR_0": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_KVM-BR_0"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_VU-INBMAZ_4": {
+        "AZDE_HAL_KS-Allgemein_VU-INBMAZ_4": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_VU-INBMAZ_4"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-Allgemein_HV-Verm_1": {
+        "AZDE_MUC_KS-Allgemein_HV-Verm_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-Allgemein_HV-Verm_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MGD_KS-Allgemein_1stLvl-Supp_2": {
+        "AZDE_MGD_KS-Allgemein_1stLvl-Supp_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MGD_KS-Allgemein_1stLvl-Supp_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_1stLvl-SuID_2": {
+        "AZDE_HAL_KS-Allgemein_1stLvl-SuID_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_1stLvl-SuID_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_GA-TA_1": {
+        "AZDE_HAL_KS-Sach_GA-TA_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_GA-TA_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-SachS_SMH-AllgAubi_1": {
+        "AZDE_BER_KS-SachS_SMH-AllgAubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-SachS_SMH-AllgAubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-SachS_SMK-Aubi_1": {
+        "AZDE_NBG_KS-SachS_SMK-Aubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-SachS_SMK-Aubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAM_KS-Allgemein_2ndLVLSup_1": {
+        "AZDE_HAM_KS-Allgemein_2ndLVLSup_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAM_KS-Allgemein_2ndLVLSup_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-Vertrieb_DigSpez-Web_1": {
+        "AZDE_FRA_KS-Vertrieb_DigSpez-Web_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-Vertrieb_DigSpez-Web_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachS_SMK-Standard_8": {
+        "AZDE_FRA_KS-SachS_SMK-Standard_8": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachS_SMK-Standard_8"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachB_Kraft_3": {
+        "AZDE_MUC_KS-SachB_Kraft_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachB_Kraft_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachB_Kraft-ADAC_7": {
+        "AZDE_KLN_KS-SachB_Kraft-ADAC_7": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachB_Kraft-ADAC_7"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachS_SMH-AllgAubi_1": {
+        "AZDE_MUC_KS-SachS_SMH-AllgAubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachS_SMH-AllgAubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-Leben_Service_7": {
+        "AZDE_LPZ_KS-Leben_Service_7": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-Leben_Service_7"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-Vertrieb_DigSpez-BSG_1": {
+        "AZDE_MUC_KS-Vertrieb_DigSpez-BSG_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-Vertrieb_DigSpez-BSG_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KAR_KS-Leben_FBRiest-AL_1": {
+        "AZDE_KAR_KS-Leben_FBRiest-AL_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KAR_KS-Leben_FBRiest-AL_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_KVM-Stab_6": {
+        "AZDE_HAL_KS-Allgemein_KVM-Stab_6": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_KVM-Stab_6"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-Allgemein_2ndLVLSup_1": {
+        "AZDE_MUC_KS-Allgemein_2ndLVLSup_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-Allgemein_2ndLVLSup_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_DigiPl_8": {
+        "AZDE_HAL_KS-Sach_DigiPl_8": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_DigiPl_8"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_VU-INBMAZ_0": {
+        "AZDE_HAL_KS-Allgemein_VU-INBMAZ_0": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_VU-INBMAZ_0"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-SachS_SMS-BesAubi_1": {
+        "AZDE_BER_KS-SachS_SMS-BesAubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-SachS_SMS-BesAubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_Pro3-InbOut_3": {
+        "AZDE_HAL_KS-Allgemein_Pro3-InbOut_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_Pro3-InbOut_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_VU-EVK2ndLVL_2": {
+        "AZDE_HAL_KS-Allgemein_VU-EVK2ndLVL_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_VU-EVK2ndLVL_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAM_KS-Vertrieb_DigSpez-VAS_1": {
+        "AZDE_HAM_KS-Vertrieb_DigSpez-VAS_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAM_KS-Vertrieb_DigSpez-VAS_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_STG_KS-Vertrieb_DigSpez-FB_1": {
+        "AZDE_STG_KS-Vertrieb_DigSpez-FB_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_STG_KS-Vertrieb_DigSpez-FB_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAN_KS-Leben_SWISSL_1": {
+        "AZDE_HAN_KS-Leben_SWISSL_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAN_KS-Leben_SWISSL_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-Kranken_AL_1": {
+        "AZDE_LPZ_KS-Kranken_AL_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-Kranken_AL_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAM_KS-Vertrieb_DigSpez-Web_1": {
+        "AZDE_HAM_KS-Vertrieb_DigSpez-Web_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAM_KS-Vertrieb_DigSpez-Web_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-Vertrieb_DigSpez-VAS_1": {
+        "AZDE_LPZ_KS-Vertrieb_DigSpez-VAS_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-Vertrieb_DigSpez-VAS_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-Leben_Aubi_1": {
+        "AZDE_LPZ_KS-Leben_Aubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-Leben_Aubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Vertrieb_DigSpez-KVS_1": {
+        "AZDE_NBG_KS-Vertrieb_DigSpez-KVS_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Vertrieb_DigSpez-KVS_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-Vertrieb_DigSpez-KVS_1": {
+        "AZDE_LPZ_KS-Vertrieb_DigSpez-KVS_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-Vertrieb_DigSpez-KVS_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Kranken_Vertrag-Aubi_1": {
+        "AZDE_NBG_KS-Kranken_Vertrag-Aubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Kranken_Vertrag-Aubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS_Team4_1": {
+        "AZDE_MUC_KS_Team4_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS_Team4_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Kranken_AL_1": {
+        "AZDE_NBG_KS-Kranken_AL_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Kranken_AL_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_DEU_KS-SachS_SMH-AL_1": {
+        "AZDE_DEU_KS-SachS_SMH-AL_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_DEU_KS-SachS_SMH-AL_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachS_SMR-Aubi_1": {
+        "AZDE_MUC_KS-SachS_SMR-Aubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachS_SMR-Aubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_KVM-Stab_2": {
+        "AZDE_HAL_KS-Allgemein_KVM-Stab_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_KVM-Stab_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-Vertrieb_DigSpez-KVS_1": {
+        "AZDE_FRA_KS-Vertrieb_DigSpez-KVS_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-Vertrieb_DigSpez-KVS_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-Leben_Service_8": {
+        "AZDE_LPZ_KS-Leben_Service_8": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-Leben_Service_8"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_NBG_KS-Leben_Service_10": {
+        "AZDE_NBG_KS-Leben_Service_10": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_NBG_KS-Leben_Service_10"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-Vertrieb_DigSpez-BSG_1": {
+        "AZDE_BER_KS-Vertrieb_DigSpez-BSG_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-Vertrieb_DigSpez-BSG_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachS_SMK-Neu_1": {
+        "AZDE_LPZ_KS-SachS_SMK-Neu_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachS_SMK-Neu_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_DigiPl_7": {
+        "AZDE_HAL_KS-Sach_DigiPl_7": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_DigiPl_7"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_TeLInb-Pool_1": {
+        "AZDE_HAL_KS-Allgemein_TeLInb-Pool_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_TeLInb-Pool_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachS_SMK-Aubi_1": {
+        "AZDE_FRA_KS-SachS_SMK-Aubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachS_SMK-Aubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAM_KS-SachB_PS-Aubi_1": {
+        "AZDE_HAM_KS-SachB_PS-Aubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAM_KS-SachB_PS-Aubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_DEU_KS-Vertrieb_ABV_1": {
+        "AZDE_DEU_KS-Vertrieb_ABV_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_DEU_KS-Vertrieb_ABV_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_STG_KS-SachS_SMS-AllgAubi_1": {
+        "AZDE_STG_KS-SachS_SMS-AllgAubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_STG_KS-SachS_SMS-AllgAubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Allgemein_1stLvl-SuIDP_2": {
+        "AZDE_HAL_KS-Allgemein_1stLvl-SuIDP_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Allgemein_1stLvl-SuIDP_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachS_SMK-Aubi_1": {
+        "AZDE_KLN_KS-SachS_SMK-Aubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachS_SMK-Aubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachB_Unfall_5": {
+        "AZDE_MUC_KS-SachB_Unfall_5": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachB_Unfall_5"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_STG_KS-SachB_PS-Aubi_1": {
+        "AZDE_STG_KS-SachB_PS-Aubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_STG_KS-SachB_PS-Aubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAM_KS-SachB_PS-Pool_1": {
+        "AZDE_HAM_KS-SachB_PS-Pool_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAM_KS-SachB_PS-Pool_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachB_PS-AL_0": {
+        "AZDE_LPZ_KS-SachB_PS-AL_0": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachB_PS-AL_0"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-Vertrieb_DigSpez-VAS_1": {
+        "AZDE_FRA_KS-Vertrieb_DigSpez-VAS_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-Vertrieb_DigSpez-VAS_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAM_KS-Vertrieb_DigSpez-KVS_1": {
+        "AZDE_HAM_KS-Vertrieb_DigSpez-KVS_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAM_KS-Vertrieb_DigSpez-KVS_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_FRA_KS-SachS_SMKAAV-AL_1": {
+        "AZDE_FRA_KS-SachS_SMKAAV-AL_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_FRA_KS-SachS_SMKAAV-AL_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAM_KS-SachS_SMSS-Video_1": {
+        "AZDE_HAM_KS-SachS_SMSS-Video_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAM_KS-SachS_SMSS-Video_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_STG_KS-SachB_PS_0": {
+        "AZDE_STG_KS-SachB_PS_0": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_STG_KS-SachB_PS_0"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_BER_KS-SachB_PS-Aubi_2": {
+        "AZDE_BER_KS-SachB_PS-Aubi_2": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_BER_KS-SachB_PS-Aubi_2"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachB_Kraft-Aubi_1": {
+        "AZDE_MUC_KS-SachB_Kraft-Aubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachB_Kraft-Aubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KAR_KS-LebenP_Aubi_1": {
+        "AZDE_KAR_KS-LebenP_Aubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KAR_KS-LebenP_Aubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HBR_KS-Kranken_AL_1": {
+        "AZDE_HBR_KS-Kranken_AL_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HBR_KS-Kranken_AL_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KAR_KS-Allgemein_Berufsaubi_1": {
+        "AZDE_KAR_KS-Allgemein_Berufsaubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KAR_KS-Allgemein_Berufsaubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-SachS_SMK-Aubi_1": {
+        "AZDE_MUC_KS-SachS_SMK-Aubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-SachS_SMK-Aubi_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-SachS_GA-SchdQM_0": {
+        "AZDE_HAL_KS-SachS_GA-SchdQM_0": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-SachS_GA-SchdQM_0"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-SachS_SMK-Standard_3": {
+        "AZDE_LPZ_KS-SachS_SMK-Standard_3": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-SachS_SMK-Standard_3"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_ABZ-AL_1": {
+        "AZDE_HAL_KS-Sach_ABZ-AL_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_ABZ-AL_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_LPZ_KS-DSE_AL_1": {
+        "AZDE_LPZ_KS-DSE_AL_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_LPZ_KS-DSE_AL_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HAL_KS-Sach_PS-ADAC_1": {
+        "AZDE_HAL_KS-Sach_PS-ADAC_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HAL_KS-Sach_PS-ADAC_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_KLN_KS-SachB_Kraft-AL_1": {
+        "AZDE_KLN_KS-SachB_Kraft-AL_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_KLN_KS-SachB_Kraft-AL_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_HBR_KS-Kranken_Archiv-Buchh_1": {
+        "AZDE_HBR_KS-Kranken_Archiv-Buchh_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_HBR_KS-Kranken_Archiv-Buchh_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_MUC_KS-Vertrieb_DigSpez-SPS_1": {
+        "AZDE_MUC_KS-Vertrieb_DigSpez-SPS_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_MUC_KS-Vertrieb_DigSpez-SPS_1"
+                ]
+            }
+        }
+    },
+    "TEAM - AZDE_STG_KS-SachS_SMH-AllgAubi_1": {
+        "AZDE_STG_KS-SachS_SMH-AllgAubi_1": {
+            "UC": {
+                "User Groups": [
+                    "equals",
+                    "AZDE_STG_KS-SachS_SMH-AllgAubi_1"
+                ]
+            }
+        }
+    }
+}

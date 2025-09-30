@@ -29,7 +29,7 @@ def main():
         
         # Initialize the V2 parser
         print("📊 Loading Excel file...")
-        parser = OpenAccessProfilesXLSXV2()
+        parser = OpenAccessProfilesXLSXV2(file='B.X_CONDUCTOR_AZ Italy_AccessProfiles_V1.1_18092025 (1).xlsx')
         
         # Get basic statistics
         total_profiles = len(parser.access_profile_dict.keys())

@@ -649,3 +649,6 @@ class OpenAccessProfilesXLSXV2:
             return json.dumps(self.access_profile_dict, indent=4, ensure_ascii=False)
         except Exception as e:
             raise ValueError(f"Failed to convert data to JSON: {str(e)}")
+    
+    def to_dict(self):
+        return self.access_profile_dict
