@@ -1,6 +1,9 @@
-FILENAME = 'B.X_CONDUCTOR_AZ Italy_AccessProfiles_V1.1_18092025 (1).xlsx'
-FILENAME = 'B.X_CONDUCTOR_AZ Bene_AccessProfiles_V1_30092025.xlsx'
-FILENAME = 'AccessProfilesTEAM.xlsx'
+
+import argparse
+
+DEFAULT_FILENAME = 'B.X_CONDUCTOR_AZ Italy_AccessProfiles_V1.1_18092025 (1).xlsx'
+FILENAME1 = 'B.X_CONDUCTOR_AZ Bene_AccessProfiles_V1_30092025.xlsx'
+FILENAME2 = 'AccessProfilesTEAM.xlsx'
 SHEETNAME = None
 
 import openpyxl
@@ -9,7 +12,11 @@ import json
 
 
 def main():
-    f = OpenAccessProfilesXLSX(file=FILENAME, sheetname=SHEETNAME, debug=True)
+    parser = argparse.ArgumentParser(description="Process access profile Excel file.")
+    parser.add_argument('--file', type=str, default=DEFAULT_FILENAME, help='Excel filename to process')
+    args = parser.parse_args()
+
+    f = OpenAccessProfilesXLSX(file=args.file, sheetname=SHEETNAME, debug=True)
     f.to_json(True)
     f.to_csv()
 
@@ -54,7 +61,7 @@ class OpenAccessProfilesXLSX():
             raise ValueError("No categories found in the Excel sheet. Is correct sheet selected?")
 
         if self.debug:
-            print("\nCATEGORIES FOUND")
+            print("\nPRODUCTS/CATEGORY FOUND")
             print("=" * 50)
             print(self.categories)
 
@@ -67,7 +74,7 @@ class OpenAccessProfilesXLSX():
                 break
         
         if self.debug:
-            print("\nHEADINGS/COLUMNS FOUND")
+            print("\nCOLUMNS/TYPES FOUND")
             print("=" * 50)
             print(self.headings)
 
@@ -105,7 +112,7 @@ class OpenAccessProfilesXLSX():
             sample_profile = list(self.access_profile_dict.keys())[0]
             sample_filter = list(self.access_profile_dict[sample_profile].keys())[0]
             sample_data = self.access_profile_dict[sample_profile][sample_filter]
-            print ("Offset to 'Name' column:", offset) 
+            #print ("Offset to 'Name' column:", offset) 
             print("\nSAMPLE DATA FOUND")
             print("=" * 50)
             print(f"   Sample Profile: '{sample_profile}'")
@@ -117,7 +124,7 @@ class OpenAccessProfilesXLSX():
                 first_category = list(sample_data.keys())[0]
                 first_heading = list(sample_data[first_category].keys())[0]
                 first_values = sample_data[first_category][first_heading]
-                print(f"   Sample data: dict['{sample_profile}']['{sample_filter}']['{first_category}']['{first_heading}'] = ['{first_values[0]}','{first_values[1]}']")
+                print(f"\n   Sample data: dict['{sample_profile}']['{sample_filter}']['{first_category}']['{first_heading}'] = ['{first_values[0]}','{first_values[1]}']")
     
     def _nested_dict(self):
         """Creates a 3-level nested defaultdict."""
@@ -139,10 +146,14 @@ class OpenAccessProfilesXLSX():
             print()  # Newline on complete 
 
     def to_json(self, write=False):
+        import os
+        output_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'output')
+        os.makedirs(output_dir, exist_ok=True)
         if write:
-            with open(self.filename + '.json', 'w') as f:
+            json_path = os.path.join(output_dir, self.filename + '.json')
+            with open(json_path, 'w') as f:
                 json.dump(self.access_profile_dict, f, indent=4)
-            print(f"\n✅ JSON file '{self.filename}.json' written successfully.")
+            print(f"\n✅ JSON file '{json_path}' written successfully.")
         return json.dumps(self.access_profile_dict, indent=4)
         
     def to_dict(self, dict=None):
@@ -152,7 +163,11 @@ class OpenAccessProfilesXLSX():
     
     def to_csv(self):
         import csv
-        with open(self.filename + '.csv', mode='w', newline='') as file:
+        import os
+        output_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'output')
+        os.makedirs(output_dir, exist_ok=True)
+        csv_path = os.path.join(output_dir, self.filename + '.csv')
+        with open(csv_path, mode='w', newline='') as file:
             writer = csv.writer(file)
 
             csv = [['Name', 'Filter', 'Product', 'Type', 'Operator', 'Value']]
@@ -161,10 +176,9 @@ class OpenAccessProfilesXLSX():
                     for category, heading_dict in category_dict.items():
                         for heading, [operator, value] in heading_dict.items():
                             csv.append([name, filter, category, heading, operator, value])
-                        
             for csv_row in csv:
                 writer.writerow(csv_row)
-        print(f"\n✅ CSV file '{self.filename}.csv' written successfully.")
+        print(f"\n✅ CSV file '{csv_path}' written successfully.")
 
 
 if __name__ == "__main__":

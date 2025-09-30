@@ -23,3 +23,8 @@ ENV/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Archive and data files
+*.zip
+*.json
+*.csv

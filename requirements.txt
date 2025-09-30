@@ -4,5 +4,10 @@
 # Excel file processing
 openpyxl>=3.0.0
 
+# Standard library (for reference, not needed in requirements):
+# - json
+# - argparse
+# - collections
+
 # Note: This is the minimal setup for the original V1 implementation
 # For enhanced functionality, see the backup/ folder for V2 implementation
